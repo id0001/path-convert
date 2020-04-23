@@ -1,0 +1,14 @@
+Path Converter.
+
+Convert windows to linux style paths or vice versa.
+
+Usage:
+  pc [-w] <path>
+  pc -c [-w] [<path>]
+  pc (-h | --help)
+
+Options:
+  -h, --help       Show this screen.
+  -c, --clipboard  Copy output to clipboard. 
+                   Also copies from clipboard when <path> is omitted.
+  -w, --windows    Convert to windows style path instead of linux style.

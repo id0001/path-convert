@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathConvert", "PathConvert\PathConvert.csproj", "{E8A81DC3-02F0-42EF-A0B3-7C40F398C165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8A81DC3-02F0-42EF-A0B3-7C40F398C165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A81DC3-02F0-42EF-A0B3-7C40F398C165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A81DC3-02F0-42EF-A0B3-7C40F398C165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A81DC3-02F0-42EF-A0B3-7C40F398C165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD6F4D3-C298-4007-BF0F-3F7B168262D0}
+	EndGlobalSection
+EndGlobal
